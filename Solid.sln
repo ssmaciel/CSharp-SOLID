@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SRP.Problema", "SRP\SRP.Problema\SRP.Problema.csproj", "{EDD60E3B-F12D-4AA4-AACD-E24E90CEFFCE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - SRP", "1 - SRP", "{F6A7FFAD-523C-4766-92C0-A93149E2AB43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SRP.Solucao", "SRP\SRP.Solucao\SRP.Solucao.csproj", "{4ED5B8B6-AC4E-414D-B861-6BA7869C4EA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDD60E3B-F12D-4AA4-AACD-E24E90CEFFCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDD60E3B-F12D-4AA4-AACD-E24E90CEFFCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDD60E3B-F12D-4AA4-AACD-E24E90CEFFCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDD60E3B-F12D-4AA4-AACD-E24E90CEFFCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ED5B8B6-AC4E-414D-B861-6BA7869C4EA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ED5B8B6-AC4E-414D-B861-6BA7869C4EA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ED5B8B6-AC4E-414D-B861-6BA7869C4EA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ED5B8B6-AC4E-414D-B861-6BA7869C4EA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EDD60E3B-F12D-4AA4-AACD-E24E90CEFFCE} = {F6A7FFAD-523C-4766-92C0-A93149E2AB43}
+		{4ED5B8B6-AC4E-414D-B861-6BA7869C4EA5} = {F6A7FFAD-523C-4766-92C0-A93149E2AB43}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CEBE155-F957-4528-ABE9-00C5C7835AB6}
+	EndGlobalSection
+EndGlobal
